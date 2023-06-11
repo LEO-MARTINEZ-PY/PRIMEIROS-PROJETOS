@@ -1,0 +1,4 @@
+print("Bem vindo ao gerador de nomes para Bandas.")
+segundo_nome = input("Qual o seu segundo nome? ")
+apelido_usuario = input("Qual o seu apelido? ")
+print("O nome da sua banda poderia ser: " + segundo_nome + " " + apelido_usuario)
